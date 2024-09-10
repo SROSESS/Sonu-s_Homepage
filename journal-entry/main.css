@@ -1,27 +1,24 @@
 body{
-    background:pink;
+    background:lightpink;
     font-family:sans-serif;
 }
 p{
     font-size:19px;
     color:black;
-    background-color: blanchedalmond;
+   background-color:blanchedalmond;
     padding:10px;
     margin: 10px;
 }
-.special{
-    border:dotted;
-    padding:30px;
-    text-align:center;
+
 }
 h1{
-    font-size:40px;
+    font-size:25px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-style: normal;
 }
 h2{
-    font-size:30px;
+    font-size:25px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-style: normal;

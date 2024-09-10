@@ -1,11 +1,10 @@
 {
 	"folders": [
 		{
-			"name": "Sonu-s_Homepage",
 			"path": "."
 		},
 		{
-			"path": "../../../paths-specificity"
+			"path": "../../../boilerplate postion"
 		}
 	],
 	"settings": {}
