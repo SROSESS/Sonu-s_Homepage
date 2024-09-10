@@ -9,6 +9,28 @@ p{
     padding:50px;
     margin: 50px;
 }
+
+h1{
+    padding:30px;
+    text-align:center;
+    font-size:35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+    padding:100px;
+    margin: 100px;
+    text-align:center;
+    position:center;
+}
+h2{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+   /*padding:10px;
+    margin: 10px;*/
+}
+
 .special{
    
     padding:30px;
@@ -18,13 +40,14 @@ p{
     width:100px;
     height:100px;
     padding:40px;
-   /* text-align:center;
+  /* text-align:center;
     position:center;*/
     padding:10px;
     margin: 10px;
 }
 
 .highlight{
+
     position:absolute;
     top:-10px;
     left:10px;
@@ -34,6 +57,7 @@ p{
    width:300px;
    max-width:100%;*/
 }
+
 .sustainable{
     position:absolute;
     top:-10px;
@@ -66,22 +90,4 @@ img{
     width: 20%;
     height: auto;
   
-}
-h1{
-    font-size:35px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: normal;
-    font-style: normal;
-    /*padding:100px;
-    margin: 100px;*/
-    text-align:center;
-    position:center;
-}
-h2{
-    font-size:20px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: normal;
-    font-style: normal;
-   /*padding:10px;
-    margin: 10px;*/
 }
